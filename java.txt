@@ -1,0 +1,8 @@
+1. Create New Repository
+2. Open cmd
+3. Initialize local Driectory
+4. Add Local Repository
+5. Commit Repesitory
+6. Add remote Repository Url
+7. Push Local Repositary to Github
+8. Pull Repository from Github
